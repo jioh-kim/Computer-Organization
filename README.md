@@ -1,2 +1,2 @@
 # Computer-Organization
-Coded in Verilog &amp; Assembly
+ECE243 @ Uoft Computer Engineering
